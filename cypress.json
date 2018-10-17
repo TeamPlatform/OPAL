@@ -1,0 +1,12 @@
+{
+
+    "video": true,
+   "defaultCommandTimeout": 10000,
+   "screenshotsFolder": "C:/Users/Opal/Desktop/finalreleasevicky/img",
+  "videosFolder":"C:/Users/Opal/Desktop/finalreleasevicky/video",
+  "pageLoadTimeout": 900000
+  
+}
+
+
+
